@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_pause_resume_game" android:icon="@drawable/pause_game_icon" android:title="Pausar Jogo" android:orderInCategory="2"></item>
+    <item android:id="@+id/menu_exit_game" android:title="Sair do Jogo" android:orderInCategory="3" android:icon="@drawable/exit_game_icon"></item>
+</menu>

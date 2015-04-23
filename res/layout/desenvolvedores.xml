@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pano_de_fundo"
+    android:gravity="right|center_vertical"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/llLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginRight="15dp"
+        android:textSize="30sp"
+        android:minWidth="270dp"
+        android:text="Eduardo Almeida" />
+
+    <Button
+        android:id="@+id/btKevin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginRight="15dp"
+        android:textSize="30sp"
+        android:minWidth="270dp"
+        android:text="Kevin Cavalcante" />
+
+    <Button
+        android:id="@+id/btRoney"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginRight="15dp"
+        android:textSize="30sp"
+        android:minWidth="270dp"
+        android:text="Roney Gomes" />
+
+</LinearLayout>
